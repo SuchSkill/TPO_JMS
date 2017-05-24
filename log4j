@@ -1,0 +1,95 @@
+04:07:27,291 Successfully connected to tcp://localhost:61616
+04:07:27,297 Successfully connected to tcp://localhost:61616
+04:07:27,295 Successfully connected to tcp://localhost:61616
+04:07:27,294 Successfully connected to tcp://localhost:61616
+04:07:27,299 Successfully connected to tcp://localhost:61616
+04:07:27,301 Successfully connected to tcp://localhost:61616
+04:07:27,301 Successfully connected to tcp://localhost:61616
+04:07:27,293 Successfully connected to tcp://localhost:61616
+04:07:27,293 Successfully connected to tcp://localhost:61616
+04:07:27,292 Successfully connected to tcp://localhost:61616
+04:07:27,292 Successfully connected to tcp://localhost:61616
+04:07:27,306 Successfully connected to tcp://localhost:61616
+04:07:27,306 Successfully connected to tcp://localhost:61616
+04:07:27,307 Successfully connected to tcp://localhost:61616
+04:07:27,292 Successfully connected to tcp://localhost:61616
+04:07:27,291 Successfully connected to tcp://localhost:61616
+04:07:27,307 Successfully connected to tcp://localhost:61616
+04:07:27,306 Successfully connected to tcp://localhost:61616
+04:07:27,305 Successfully connected to tcp://localhost:61616
+04:07:27,298 Successfully connected to tcp://localhost:61616
+04:07:27,383 SENDER-9 Put message in the queue: Message numger 0 fromSENDER-9
+04:07:27,383 SENDER-5 Put message in the queue: Message numger 0 fromSENDER-5
+04:07:27,383 SENDER-7 Put message in the queue: Message numger 0 fromSENDER-7
+04:07:27,384 SENDER-0 Put message in the queue: [-1.395486906E9, -9.87305368E8] operation SUBSTRACTION
+04:07:27,383 SENDER-3 Put message in the queue: Message numger 0 fromSENDER-3
+04:07:27,384 SENDER-8 Put message in the queue: [-2.06603187E8, 1.503787105E9] operation ADDITION
+04:07:27,384 SENDER-6 Put message in the queue: [1.23799326E9, 9.0190524E8] operation SUBSTRACTION
+04:07:27,384 SENDER-1 Put message in the queue: Message numger 0 fromSENDER-1
+04:07:27,386 SENDER-4 Put message in the queue: [-6.63061351E8, -5.76078541E8] operation DEVISION
+04:07:27,387 SENDER-2 Put message in the queue: [-3.94273062E8, 1.109914203E9] operation ADDITION
+04:07:27,433 RECEIVER-4 resived message: Message numger 0 fromSENDER-1
+04:07:27,433 RECEIVER-3 resived message: [1.721090126E9, -1.54979947E8] operationDEVISION
+04:07:27,434 SENDER-9 Message get back : Message numger 0 fromSENDER-9
+04:07:27,434 SENDER-9 Put message in the queue: Message numger 1 fromSENDER-9
+04:07:27,434 SENDER-5 Message get back : Message numger 0 fromSENDER-5
+04:07:27,434 SENDER-5 Put message in the queue: Message numger 1 fromSENDER-5
+04:07:27,435 SENDER-2 Message get back : -7.5062299336373606E17
+04:07:27,435 SENDER-2 Put message in the queue: [-1.922982958E9, 1.581735788E9] operation SUBSTRACTION
+04:07:27,436 SENDER-4 Message get back : 2.42247744507585408E17
+04:07:27,437 SENDER-6 Message get back : -1.079099175E9
+04:07:27,437 SENDER-4 Put message in the queue: [1.534626955E9, -1.11552105E9] operation SUBSTRACTION
+04:07:27,437 SENDER-6 Put message in the queue: [1.98432317E9, 1.68356822E9] operation ADDITION
+04:07:27,439 RECEIVER-2 resived message: [-1.395486906E9, -9.87305368E8] operationSUBSTRACTION
+04:07:27,434 RECEIVER-1 resived message: Message numger 0 fromSENDER-9
+04:07:27,435 SENDER-1 Message get back : Message numger 2 fromSENDER-1
+04:07:27,435 SENDER-0 Message get back : 1.07145148064886195E18
+04:07:27,440 SENDER-1 Put message in the queue: Message numger 1 fromSENDER-1
+04:07:27,440 SENDER-0 Put message in the queue: [1.71170165E9, -4.07529035E8] operation ADDITION
+04:07:27,435 SENDER-8 Message get back : -9.29303E7
+04:07:27,434 SENDER-7 Message get back : Message numger 0 fromSENDER-7
+04:07:27,441 SENDER-7 Put message in the queue: Message numger 1 fromSENDER-7
+04:07:27,434 SENDER-3 Message get back : Message numger 2 fromSENDER-3
+04:07:27,442 SENDER-3 Put message in the queue: Message numger 1 fromSENDER-3
+04:07:27,434 RECEIVER-0 resived message: Message numger 0 fromSENDER-3
+04:07:27,441 SENDER-8 Put message in the queue: [1.834632193E9, -1.122674235E9] operation MULTIPLICATION
+04:07:30,438 RECEIVER-3 resived message: [-1.302122655E9, 1.947585083E9] operationDEVISION
+04:07:30,447 RECEIVER-0 resived message: Message numger 0 fromSENDER-1
+04:07:31,448 SENDER-0 Message get back : -4.08181538E8
+04:07:31,449 SENDER-0 Put message in the queue: [4.68027575E8, -5.14056285E8] operation SUBSTRACTION
+04:07:31,450 RECEIVER-2 resived message: [-6.63061351E8, -5.76078541E8] operationDEVISION
+04:07:31,450 RECEIVER-4 resived message: Message numger 1 fromSENDER-1
+04:07:32,446 RECEIVER-1 resived message: [-3.94273062E8, 1.109914203E9] operationADDITION
+04:07:35,440 RECEIVER-3 resived message: [5.6474189E7, 1.796096039E9] operationDEVISION
+04:07:35,449 SENDER-1 Message get back : Message numger 0 fromSENDER-1 edited by RECEIVER-0
+04:07:35,449 SENDER-1 Put message in the queue: Message numger 2 fromSENDER-1
+04:07:35,451 RECEIVER-0 resived message: [1.534626955E9, -1.11552105E9] operationSUBSTRACTION
+04:07:35,455 RECEIVER-2 resived message: [-1.922982958E9, 1.581735788E9] operationSUBSTRACTION
+04:07:36,456 RECEIVER-4 resived message: Message numger 0 fromSENDER-1
+04:07:36,458 RECEIVER-1 resived message: [1.98432317E9, 1.68356822E9] operationADDITION
+04:07:38,449 RECEIVER-3 resived message: [-1.999843915E9, -3.09048356E8] operationSUBSTRACTION
+04:07:39,456 SENDER-4 Message get back : 2.650148005E9
+04:07:39,458 SENDER-4 Put message in the queue: [-2.44283174E8, -2.63799672E8] operation MULTIPLICATION
+04:07:39,460 RECEIVER-0 resived message: Message numger 1 fromSENDER-3
+04:07:39,465 SENDER-2 Message get back : -3.504718746E9
+04:07:39,465 SENDER-2 Put message in the queue: [2.59315547E8, -1.55601487E8] operation ADDITION
+04:07:39,466 RECEIVER-2 resived message: Message numger 1 fromSENDER-7
+04:07:39,468 RECEIVER-1 resived message: [1.834632193E9, -1.122674235E9] operationMULTIPLICATION
+04:07:40,472 RECEIVER-4 resived message: Message numger 1 fromSENDER-1
+04:07:42,470 SENDER-3 Message get back : Message numger 1 fromSENDER-3 edited by RECEIVER-0
+04:07:42,470 SENDER-3 Put message in the queue: Message numger 2 fromSENDER-3
+04:07:42,472 RECEIVER-0 resived message: [2.59315547E8, -1.55601487E8] operationADDITION
+04:07:42,473 RECEIVER-2 resived message: [-2.44283174E8, -2.63799672E8] operationMULTIPLICATION
+04:07:43,450 SENDER-0 Message get back : -1.690795559E9
+04:07:43,451 RECEIVER-3 resived message: [7.52009849E8, -1.095681757E9] operationSUBSTRACTION
+04:07:44,474 RECEIVER-1 resived message: Message numger 2 fromSENDER-3
+04:07:45,477 SENDER-1 Message get back : Message numger 1 fromSENDER-1 edited by RECEIVER-4
+04:07:45,478 RECEIVER-4 resived message: Message numger 0 fromSENDER-1
+04:07:46,459 RECEIVER-3 resived message: [-2.099822026E9, -8.39248996E8] operationMULTIPLICATION
+04:07:48,486 RECEIVER-4 resived message: Message numger 1 fromSENDER-1
+04:07:51,476 RECEIVER-3 resived message: [-4.57338428E8, -3.27824695E8] operationDEVISION
+04:07:51,505 RECEIVER-4 resived message: Message numger 0 fromSENDER-1
+04:07:55,527 RECEIVER-4 resived message: Message numger 1 fromSENDER-1
+04:07:56,493 RECEIVER-3 resived message: [9.55749656E8, 1.808041491E9] operationSUBSTRACTION
+04:07:58,538 RECEIVER-4 resived message: Message numger 0 fromSENDER-1
+04:07:59,505 RECEIVER-3 resived message: [1.230626331E9, 3.17267175E8] operationDEVISION
